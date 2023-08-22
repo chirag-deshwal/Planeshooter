@@ -1,0 +1,11 @@
+<resources>
+
+
+    <string name="banner_ad_ID">ca-app-pub-1423353764435650/5659874101</string> <!-- AD unit ID-->
+    <string name="admob_app_ID">ca-app-pub-1423353764435650~4139221688</string> <!-- AD ID for ADMOB-->
+
+
+    <!-- AD unit ID for text only-->
+    <string name="testBanner_ad_ID">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

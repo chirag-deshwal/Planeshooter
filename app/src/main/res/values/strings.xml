@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Plane Shooter</string>
+    <string name="exit_btn_txt"><![CDATA[> Exit]]></string>
+    <string name="game_over">Game\nOver</string>
+    <string name="new_game"><![CDATA[> New Game]]></string>
+    <string name="demo_score">230</string>
+    <string name="best_score">Best \nScore:</string>
+    <string name="score">Score:</string>
+</resources>
